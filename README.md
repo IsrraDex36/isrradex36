@@ -1,4 +1,5 @@
-<h2 align="left">Hola👋! Mi nombre es Isrrael, desarrollador de software, exploremos un mundo lleno de posibilidades en la tecnología</h2>
+<h2 align="left">💻 ¡Hola! Soy Isrrael</h2>
+<h3 align="left">Desarrollador de software por día, gamer por la noche | Construyendo el futuro una línea de código a la vez</h3>
 
 ###
 
