@@ -6,27 +6,25 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsrraDex36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="115" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsrraDex36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="115" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsrraDex36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsrraDex36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ3aTNkZGU1dXNrMDY4dTExdHlsc2E3bGlmcW03Nzg2enoxYWd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/U8RLgaGFiwXsZc8YUw/giphy.gif" alt="Coding gif" />
 </div>
 
 ###
 
-<p align="center">Hello World!!</p>
-
-###
-
 <div align="left">
-  <a href="jonathanisrrael3609@gmail.com" target="_blank">
+  <a href="mailto:jonathanisrrael3609@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/jonathan-isrrael-caballero-morales-318854221" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -51,18 +49,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/IsrraDex36/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/IsrraDex36/count.svg?" alt="Visitor counter" />
 </div>
-
-###
