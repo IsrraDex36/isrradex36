@@ -37,9 +37,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,bootstrap,tailwind,nodejs,cpp,python,java,php,laravel,mongodb,mysql,postgres,firebase,flutter,androidstudio,kotlin,dart,git,github,figma,vscode,postman,netlify,vite,discord&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,bootstrap,tailwind,php,laravel,dotnet,cs,mysql,postgres,git,github,vscode,postman,vite,netlify&perline=10" />
   </a>
 </p>
+
 
 <!-- NUEVA SECCIÓN: Actualmente aprendiendo -->
 <h2 align="center">🌱 Actualmente</h2>
