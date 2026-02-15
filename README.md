@@ -54,16 +54,7 @@
   <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-AI_Development-8B5CF6?logo=openai&logoColor=white&style=for-the-badge"/>
 </p>
-
-<!-- LENGUAJES MÁS USADOS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsrraDex36&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
-</div>
-
-<!-- CONTADOR DE VISITAS -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/IsrraDex36/count.svg?"  />
-</div>
+ 
 
 <!-- CITA INSPIRADORA -->
 <div align="center">
