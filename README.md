@@ -1,56 +1,90 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+</div>
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=💻+¡Hola!+Soy+Isrrael;Full+Stack+Developer;Construyendo+el+futuro+🚀;Una+línea+de+código+a+la+vez+✨" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Desarrollador Full Stack de día, gamer por la noche 🎮 | Construyendo el futuro una línea de código a la vez</h3>
+<!-- SUBTITLE -->
+<h3 align="center">
+  🌟 Desarrollador Full Stack apasionado por la tecnología y la innovación<br/>
+  🎮 Gamer por la noche | 🚀 Constructor de soluciones por el día
+</h3>
 
-###
+<br>
 
-<!-- SECCIÓN DE CONTACTO & REDES SOCIALES -->
-<p align="center">
-  <a href="mailto:jonathanisrrael3609@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jonathan-ism">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/IsrraDex36">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IsrraDex36&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/IsrraDex36?label=Followers&style=for-the-badge&color=8b5cf6" alt="followers" />
-</p>
-
-<!-- GIF CENTRAL -->
+<!-- ANIMATED CODER GIF -->
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ3aTNkZGU1dXNrMDY4dTExdHlsc2E3bGlmcW03Nzg2enoxYWd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ3aTNkZGU1dXNrMDY4dTExdHlsc2E3bGlmcW03Nzg2enoxYWd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif" />
 </div>
 
 <br>
 
-<!-- GITHUB STREAK -->
+<!-- ABOUT ME -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsrraDex36&theme=tokyonight&hide_border=true" />
+  <h2>👨‍💻 Sobre Mí</h2>
+  <p>
+    Soy un desarrollador Full Stack con pasión por crear soluciones innovadoras y escalables.<br/>
+    Me encanta aprender nuevas tecnologías y enfrentar desafíos complejos.<br/>
+    Actualmente explorando el mundo de la IA y la automatización inteligente.
+  </p>
+</div>
+
+<br>
+
+<!-- CONTACT & SOCIAL MEDIA -->
+<div align="center">
+  <h2>📫 Conecta Conmigo</h2>
+  <p>
+    <a href="mailto:jonathanisrrael3609@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/jonathan-ism">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/IsrraDex36">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+<br>
+
+<!-- PROFILE STATS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsrraDex36&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/IsrraDex36?label=Followers&style=for-the-badge&color=8b5cf6" alt="followers" />
+</div>
+
+<br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br>
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 Estadísticas de GitHub</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsrraDex36&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsrraDex36&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <br>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsrraDex36&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsrraDex36&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 </div>
 
 <br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br>
 
-<!-- SKILLS -->
+<!-- SKILLS SECTION - NO MODIFICADA -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">💻 TECH STACK</h2></summary>
@@ -72,9 +106,12 @@
 </p>
 
 <br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br>
 
-<!-- ACTUALMENTE APRENDIENDO -->
+<!-- CURRENTLY LEARNING -->
 <h2 align="center">🌱 Actualmente Profundizando En</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"/>
@@ -84,7 +121,18 @@
 
 <br>
 
+<!-- TOP LANGUAGES -->
+<div align="center">
+  <h2>🔥 Lenguajes Más Utilizados</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsrraDex36&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</div>
+
+<br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br>
+
 <!-- RANDOM DEV QUOTE -->
+<h2 align="center">💭 Frase del Día</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
@@ -92,19 +140,44 @@
 <br>
 
 <!-- RANDOM DEV JOKE -->
+<h2 align="center">😄 Humor de Desarrollador</h2>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 <br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br>
 
-<!-- CITA INSPIRADORA -->
+<!-- INSPIRATIONAL QUOTE -->
 <div align="center">
-  <i>"Primero resuelve el problema. Luego escribe el código." - John Johnson</i>
+  <h2>✨ Filosofía de Código</h2>
+  <p><i>"Primero resuelve el problema. Luego escribe el código."</i></p>
+  <p><b>- John Johnson</b></p>
 </div>
 
 <br>
 
-<!-- GIFS FINALES -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+</div>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- FINAL MESSAGE -->
+<div align="center">
+  <h3>⭐ Si te gusta mi trabajo, no dudes en darle una estrella a mis proyectos ⭐</h3>
+  <p>¡Gracias por visitar mi perfil! 🚀</p>
+</div>
