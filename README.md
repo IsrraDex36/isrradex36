@@ -63,8 +63,9 @@
 
 <!-- PROFILE STATS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IsrraDex36&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/IsrraDex36?label=Followers&style=for-the-badge&color=8b5cf6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/IsrraDex36?label=Total%20Stars&style=for-the-badge&color=fbbf24&logo=github" alt="total stars" />
+  <img src="https://img.shields.io/github/followers/IsrraDex36?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-6366f1?style=for-the-badge&logo=code&logoColor=white" alt="focus" />
 </div>
 
 <br>
