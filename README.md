@@ -26,48 +26,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsrraDex36&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
-<br>
-
-<!-- SKILLS COMPLETAS -->
+<!-- SKILLS -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">💻 TECH STACK</h2></summary>
   </ul>
 </div>
 
-### 🎨 Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,vite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,vite,nodejs,dotnet,cs,php,python,fastapi,aws,postgres,mysql,mongodb,firebase,git,github,vscode,visualstudio,postman,netlify,dart,java,cpp&perline=15" />
   </a>
 </p>
 
-### ⚙️ Backend & Services
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,php,python,fastapi,aws&perline=10" />
-  </a>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&perline=10" />
-  </a>
-</p>
-
-### 🛠️ Tools & More
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,netlify,dart,java,cpp&perline=10" />
-  </a>
-</p>
-
-### 🤖 AI & Automation
+<!-- AI & AUTOMATION -->
 <p align="center">
   <img src="https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Claude-191919?logo=anthropic&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Semantic_Search-FF6B6B?logo=elasticsearch&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Vector_DB-6366F1?logo=databricks&logoColor=white&style=for-the-badge"/>
 </p>
 
 <!-- ACTUALMENTE APRENDIENDO -->
@@ -76,7 +53,6 @@
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-AI_Development-8B5CF6?logo=openai&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Vector_DBs-6366F1?logo=databricks&logoColor=white&style=for-the-badge"/>
 </p>
 
 <!-- LENGUAJES MÁS USADOS -->
@@ -89,14 +65,10 @@
   <img src="https://profile-counter.glitch.me/IsrraDex36/count.svg?"  />
 </div>
 
-<br>
-
 <!-- CITA INSPIRADORA -->
 <div align="center">
   <i>"Primero resuelve el problema. Luego escribe el código." - John Johnson</i>
 </div>
-
-<br>
 
 <!-- GIFS FINALES -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
