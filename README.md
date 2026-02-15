@@ -35,23 +35,7 @@
 </div>
 
 <br>
-
-<!-- GITHUB TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsrraDex36&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
-<br>
-
-<!-- ESTADÍSTICAS GITHUB -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsrraDex36&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsrraDex36&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsrraDex36&theme=tokyonight&hide_border=true" />
-</div>
+ 
 
 <br>
 
