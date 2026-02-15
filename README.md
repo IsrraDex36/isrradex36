@@ -50,6 +50,12 @@
     <a href="https://github.com/IsrraDex36">
       <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+    <a href="https://www.tiktok.com/@isrradex_dev">
+      <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    </a>
+    <a href="https://portfoliojicm.netlify.app/">
+      <img src="https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white" />
+    </a>
   </p>
 </div>
 
@@ -121,28 +127,10 @@
 
 <br>
 
-<!-- TOP LANGUAGES -->
-<div align="center">
-  <h2>🔥 Lenguajes Más Utilizados</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsrraDex36&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</div>
-
-<br>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<br>
-
 <!-- RANDOM DEV QUOTE -->
 <h2 align="center">💭 Frase del Día</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br>
-
-<!-- RANDOM DEV JOKE -->
-<h2 align="center">😄 Humor de Desarrollador</h2>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 <br>
@@ -154,17 +142,6 @@
   <h2>✨ Filosofía de Código</h2>
   <p><i>"Primero resuelve el problema. Luego escribe el código."</i></p>
   <p><b>- John Johnson</b></p>
-</div>
-
-<br>
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <br>
