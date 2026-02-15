@@ -3,10 +3,10 @@
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=💻+¡Hola!+Soy+Isrrael;Full+Stack+Developer+Jr;Construyendo+el+futuro+🚀;Una+línea+de+código+a+la+vez+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=💻+¡Hola!+Soy+Isrrael;Full+Stack+Developer;Construyendo+el+futuro+🚀;Una+línea+de+código+a+la+vez+✨" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Desarrollador Full Stack Jr de día, gamer por la noche 🎮 | Construyendo el futuro una línea de código a la vez</h3>
+<h3 align="center">Desarrollador Full Stack de día, gamer por la noche 🎮 | Construyendo el futuro una línea de código a la vez</h3>
 
 ###
 
@@ -96,32 +96,6 @@
 
 <br>
 
-<!-- CODING STATS (WakaTime style) -->
-<h2 align="center">📊 Coding Stats</h2>
-<div align="center">
-```text
-🌞 Morning    ████████░░░░░░░░░   35% 
-🌆 Daytime    ████████████░░░░░   52% 
-🌃 Evening    ██████░░░░░░░░░░░   28% 
-🌙 Night      ████░░░░░░░░░░░░░   15%
-```
-
-</div>
-
-<br>
-
-<!-- GITHUB SNAKE -->
-<h2 align="center">🐍 Contribution Snake</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
 <!-- RANDOM DEV QUOTE -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -135,12 +109,6 @@
 </div>
 
 <br>
-
-<!-- SPOTIFY NOW PLAYING (si quieres agregarlo más adelante)
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</div>
--->
 
 <!-- CITA INSPIRADORA -->
 <div align="center">
