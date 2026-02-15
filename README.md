@@ -1,30 +1,66 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-<h1 align="center"><b>💻 ¡Hola! Soy Isrrael</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Desarrollador Full Stack Jr de día, gamer por la noche | Construyendo el futuro una línea de código a la vez</h3>
+
+<!-- TYPING ANIMATION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=💻+¡Hola!+Soy+Isrrael;Full+Stack+Developer+Jr;Construyendo+el+futuro+🚀;Una+línea+de+código+a+la+vez+✨" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Desarrollador Full Stack Jr de día, gamer por la noche 🎮 | Construyendo el futuro una línea de código a la vez</h3>
 
 ###
 
-<!-- SECCIÓN DE CONTACTO -->
-<div align="left">
-  <a href="mailto:jonathanisrrael3609@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<!-- SECCIÓN DE CONTACTO & REDES SOCIALES -->
+<p align="center">
+  <a href="mailto:jonathanisrrael3609@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jonathan-ism" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/jonathan-ism">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://github.com/IsrraDex36">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsrraDex36&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/IsrraDex36?label=Followers&style=for-the-badge&color=8b5cf6" alt="followers" />
+</p>
 
 <!-- GIF CENTRAL -->
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ3aTNkZGU1dXNrMDY4dTExdHlsc2E3bGlmcW03Nzg2enoxYWd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif"  />
 </div>
 
+<br>
+
+<!-- GITHUB TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IsrraDex36&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<br>
+
 <!-- ESTADÍSTICAS GITHUB -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsrraDex36&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsrraDex36&theme=tokyonight&hide_border=true" width="48%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsrraDex36&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsrraDex36&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsrraDex36&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsrraDex36&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<br>
 
 <!-- SKILLS -->
 <div id="user-content-toc">
@@ -47,19 +83,71 @@
   <img src="https://img.shields.io/badge/-Vector_DB-6366F1?logo=databricks&logoColor=white&style=for-the-badge"/>
 </p>
 
+<br>
+
 <!-- ACTUALMENTE APRENDIENDO -->
 <h2 align="center">🌱 Actualmente Profundizando En</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-AI_Development-8B5CF6?logo=openai&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
 </p>
- 
+
+<br>
+
+<!-- CODING STATS (WakaTime style) -->
+<h2 align="center">📊 Coding Stats</h2>
+<div align="center">
+```text
+🌞 Morning    ████████░░░░░░░░░   35% 
+🌆 Daytime    ████████████░░░░░   52% 
+🌃 Evening    ██████░░░░░░░░░░░   28% 
+🌙 Night      ████░░░░░░░░░░░░░   15%
+```
+
+</div>
+
+<br>
+
+<!-- GITHUB SNAKE -->
+<h2 align="center">🐍 Contribution Snake</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<!-- RANDOM DEV QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br>
+
+<!-- RANDOM DEV JOKE -->
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+<br>
+
+<!-- SPOTIFY NOW PLAYING (si quieres agregarlo más adelante)
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+</div>
+-->
 
 <!-- CITA INSPIRADORA -->
 <div align="center">
   <i>"Primero resuelve el problema. Luego escribe el código." - John Johnson</i>
 </div>
+
+<br>
 
 <!-- GIFS FINALES -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
