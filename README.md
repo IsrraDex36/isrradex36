@@ -15,7 +15,7 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-  <a href="mailto:jonathanisrrael3609@gmail.com">
+  <a href="mailto:contactojisrramorales36@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://portfoliojicm.netlify.app/" target="_blank">
+  <a href="https://portfoliojicmk.vercel.app/es" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
