@@ -2,14 +2,18 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
+<br>
+
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=💻+Hola%2C+soy+Isrrael;Full+Stack+Developer;Construyendo+el+futuro+🚀;Una+línea+de+código+a+la+vez+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=💻+Hola%2C+soy+Isrrael;Full+Stack+Developer;Construyendo+el+futuro+🚀;IA+%2B+Código+%2B+Pasión+✨" alt="Typing SVG" />
 </div>
 
-<h3 align="center">
-  Desarrollador Full Stack apasionado por la tecnología, la innovación y la automatización inteligente
-</h3>
+<br>
+
+<p align="center">
+  <b>Desarrollador Full Stack</b> · Automatización Inteligente · Soluciones Escalables · México 🇲🇽
+</p>
 
 <br>
 
@@ -40,49 +44,68 @@
 
 <!-- PROFILE STATS -->
 <div align="center">
-  <img src="https://img.shields.io/github/stars/IsrraDex36?label=Stars&style=flat-square&color=fbbf24&logo=github" />
+  <img src="https://img.shields.io/github/stars/IsrraDex36?label=⭐+Stars&style=flat-square&color=fbbf24&logo=github" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/IsrraDex36?label=Followers&style=flat-square&color=8b5cf6&logo=github" />
+  <img src="https://img.shields.io/github/followers/IsrraDex36?label=👥+Followers&style=flat-square&color=8b5cf6&logo=github" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-6366f1?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯+Focus-Full%20Stack%20%26%20AI-6366f1?style=flat-square" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=IsrraDex36&style=flat-square&color=6366f1&label=👁️+Profile+Views" />
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
-***
+---
 
 ## 👨‍💻 Sobre Mí
 
 ```ts
 const isrrael = {
-  role:       "Full Stack Developer",
-  location:   "México 🇲🇽",
-  focus:      ["Web Development", "AI & Automation", "Cloud Solutions"],
-  learning:   ["Docker", "AWS", "LLM Integrations"],
-  passions:   ["Clean Code", "Scalable Architecture", "Gaming 🎮"],
-  philosophy: "Primero resuelve el problema. Luego escribe el código.",
+  role        : "Full Stack Developer",
+  location    : "México 🇲🇽",
+  focus       : ["Web Development", "AI & Automation", "Cloud Solutions"],
+  learning    : ["Docker", "AWS", "LLM Integrations"],
+  passions    : ["Clean Code", "Scalable Architecture", "Gaming 🎮"],
+  available   : true,
+  philosophy  : "Primero resuelve el problema. Luego escribe el código.",
 };
 ```
 
 <br>
 
-***
+<!-- ABOUT ME QUICK STATS -->
+<div align="center">
+
+| 🚀 Experiencia | 🛠️ Proyectos | 🤖 Especialidad | 🌐 Disponibilidad |
+|:-:|:-:|:-:|:-:|
+| Full Stack Dev | Web & Automatización | IA + Cloud | Open to Work ✅ |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsrraDex36&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=IsrraDex36&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsrraDex36&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsrraDex36&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsrraDex36&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8" width="42%" />
 </div>
 
 <br>
@@ -92,29 +115,41 @@ const isrrael = {
 </div>
 
 <br>
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/IsrraDex36/IsrraDex36/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
-***
+---
 
 ## 💻 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,vite&perline=10" />
   </a>
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,php,python,fastapi,postgres,mysql,mongodb,firebase&perline=10" />
   </a>
 </p>
 
-### DevOps, Tools & Others
+### 🚀 DevOps, Tools & Cloud
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,visualstudio,postman,netlify,dart,java&perline=10" />
@@ -133,11 +168,12 @@ const isrrael = {
 </p>
 
 <br>
+
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
-***
+---
 
 ## 🌱 Actualmente Profundizando En
 
@@ -153,7 +189,11 @@ const isrrael = {
 
 <br>
 
-***
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</div>
+
+---
 
 ## 💭 Dev Quote
 
@@ -162,6 +202,7 @@ const isrrael = {
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
@@ -169,7 +210,8 @@ const isrrael = {
 <br>
 
 <div align="center">
-  <sub>⭐ Si te gusta mi trabajo, considera dejar una estrella en mis proyectos — ¡significa mucho! 🚀</sub>
+  <b>⭐ Si te gusta mi trabajo, no olvides dejar una estrella en mis repositorios ⭐</b><br>
+  <sub>¡Gracias por visitar mi perfil! Siempre construyendo algo nuevo 🚀</sub>
 </div>
 
 <br>
