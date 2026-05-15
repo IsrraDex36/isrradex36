@@ -1,100 +1,35 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=180&section=header&text=Jonathan%20Isrrael&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20real%20products%20with%20code%20%26%20AI&descAlignY=58&descSize=16" width="100%" />
+---
+
+## 🛠️ Stack
 
 <div align="center">
 
-# 👋 Hey, soy Isrrael
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,bootstrap,vuetify,zustand,pinia,vite,figma&theme=dark&perline=7" />
 
-### Full Stack Engineer · AI Builder · Product-Oriented
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,php,laravel,cs,dotnet,postgres,mysql,mongodb,redis,supabase,prisma&theme=dark&perline=7" />
 
-Construyo software que **llega a producción, escala y genera impacto real**.
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions,jest,vitest,linux,postman&theme=dark&perline=7" />
 
-No solo desarrollo features — diseño sistemas, automatizo procesos y convierto ideas en productos funcionales.
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI+%26+Automation+Builder;From+idea+to+production;I+build+useful+systems" />
+<br/>
+
+<div align="center">
+
+![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcnui&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Slack API](https://img.shields.io/badge/Slack%20API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+</div>
+
+<div align="center">
+
+**Especialidad:** React · Next.js · TypeScript · FastAPI · Supabase · PostgreSQL · Docker · AI Automation
 
 </div>
 
 ---
-
-## 🧠 En qué me enfoco
-
-Trabajo en la intersección de:
-
-- ⚡ **Producto + Ingeniería** → construir cosas que la gente realmente usa  
-- 🤖 **Automatización + IA** → eliminar trabajo manual y escalar procesos  
-- 🧩 **Arquitectura** → sistemas mantenibles, no solo código que funciona  
-- 🚀 **Entrega** → shipping rápido sin sacrificar calidad  
-
-> Mi enfoque: menos teoría, más sistemas útiles en producción.
-
----
-
-## 🚀 Qué hago
-
-- Desarrollo aplicaciones full stack listas para producción  
-- Diseño APIs y arquitecturas escalables  
-- Automatizo flujos de negocio con IA  
-- Integro servicios y plataformas externas  
-- Optimizo performance y experiencia de usuario  
-
----
-
-## 🛠️ Stack principal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,next,vue,tailwind,nodejs,python,fastapi,postgres,supabase,docker,aws&perline=6" />
-
-</div>
-
----
-
-## 🧩 Proyectos destacados
-
-### ⚡ Sthorme
-SaaS de marketing intelligence con IA enfocado en automatizar análisis y decisiones.
-
-**Stack:** Next.js · TypeScript · FastAPI · Redis · Docker  
-🔗 https://sthorme.com
-
----
-
-### 🌎 Pásalo
-Plataforma de redistribución hiperlocal para compartir y reutilizar objetos.
-
-**Stack:** Next.js · Supabase · Prisma  
-🚧 En desarrollo
-
----
-
-### 🔎 Aparecen.mx
-Generador de fichas de búsqueda para personas desaparecidas (client-side).
-
-**Stack:** Next.js · TypeScript  
-🔗 https://aparece.vercel.app
-
----
-
-### 🤖 ChambaFlow
-Bot para automatizar postulaciones laborales.
-
-**Stack:** Python · Selenium  
-🔗 https://github.com/IsrraDex36/chambaflow
-
----
-
-## 📊 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IsrraDex36&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsrraDex36&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-
-</div>
-
----
-
-## 🤝 Conecta conmigo
-
-- 💼 Construyendo productos y automatizaciones
-- 📬 Abierto a colaboraciones y proyectos interesantes
