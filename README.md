@@ -1,71 +1,48 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=190&section=header&text=Jonathan%20Isrrael&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Product-Oriented&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=190&section=header&text=Jonathan%20Isrrael%20Caballero&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20Automation%20%C2%B7%20Product%20Builder&descAlignY=58&descSize=16" width="100%" />
 
 <div align="center">
 
-# 👋 Hey, soy Isrrael
+# Jonathan Isrrael Caballero Morales
 
-### Full Stack Engineer construyendo productos que van de idea a producción.
+### Full Stack Engineer · AI Builder · Product-Oriented Developer
 
-Construyo software que **resuelve problemas reales**, automatiza procesos y llega a usuarios de verdad.  
-No solo hago interfaces bonitas: diseño arquitectura, conecto APIs, optimizo rendimiento y entrego sistemas listos para escalar.
+Construyo productos digitales que pasan de idea a producción,  
+con foco en arquitectura, automatización, rendimiento e impacto real.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer;AI+%26+Automation+Builder;Frontend+%2B+Backend+%2B+Deploy;Building+useful+systems+for+real+users" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://sthorme.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer;AI+%26+Automation+Builder;From+idea+to+production;Building+useful+systems+for+real+users" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+## 👨‍💻 Quién soy
 
 Soy desarrollador Full Stack con enfoque en **producto, automatización e inteligencia artificial aplicada**.
 
-Me gusta construir software donde la tecnología tiene impacto real:
-- reducir tiempo operativo,
-- eliminar tareas repetitivas,
-- mejorar experiencias,
-- convertir ideas complejas en herramientas funcionales.
+Me especializo en construir software útil: aplicaciones que no solo se ven bien, sino que resuelven problemas reales, reducen fricción operativa y pueden sostenerse en producción.
 
-> Mi objetivo no es solo escribir código.  
-> Mi objetivo es construir sistemas útiles, rápidos, mantenibles y listos para producción.
+Trabajo combinando:
+- Frontend moderno y escalable
+- Backends bien estructurados
+- Bases de datos orientadas a producto
+- Integraciones con APIs y servicios externos
+- Automatización con IA para ahorrar tiempo y mejorar procesos
+
+> No me interesa solo desarrollar features.  
+> Me interesa diseñar sistemas que generen valor real.
 
 ---
 
 ## 🚀 Qué hago
 
-<table>
-<tr>
-<td width="50%">
+### 🧱 Desarrollo Full Stack
+Construyo aplicaciones completas desde cero: experiencia de usuario, arquitectura, lógica de negocio, APIs, autenticación, paneles internos, mantenimiento y despliegue.
 
-### 🧱 Full Stack Development
+### 🤖 Automatización e IA
+Diseño herramientas que reducen trabajo manual, aceleran tareas repetitivas y convierten procesos complejos en flujos más rápidos y eficientes.
 
-- Aplicaciones web completas
-- APIs robustas y mantenibles
-- Dashboards y paneles internos
-- Integraciones con servicios externos
-- Autenticación y control de acceso
-- Deploy y mantenimiento en producción
-
-</td>
-<td width="50%">
-
-### 🤖 AI & Automation
-
-- Automatización de flujos
-- Bots y asistentes internos
-- Procesamiento y transformación de datos
-- Integraciones con modelos de IA
-- Herramientas para ahorro de tiempo
-- Sistemas orientados a eficiencia operativa
-
-</td>
-</tr>
-</table>
+### 🧠 Pensamiento de producto
+No trabajo solo desde la implementación técnica; también pienso en claridad, escalabilidad, utilidad, experiencia del usuario y velocidad de entrega.
 
 ---
 
@@ -95,17 +72,19 @@ Me gusta construir software donde la tecnología tiene impacto real:
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+## 📌 En lo que me enfoco
 
-**Especialidad:** React · Next.js · TypeScript · FastAPI · Supabase · PostgreSQL · Docker · AI Automation
-
-</div>
+- Construcción de productos web listos para producción
+- Automatización de procesos con IA
+- Integración de servicios y APIs
+- Sistemas escalables y mantenibles
+- Experiencias útiles, rápidas y orientadas a impacto
 
 ---
 
-## 🧩 Proyectos destacados
+## 🧩 Proyectos
 
 <table>
 <tr>
@@ -113,7 +92,9 @@ Me gusta construir software donde la tecnología tiene impacto real:
 
 ### ⚡ Sthorme
 
-SaaS de marketing intelligence con IA enfocado en automatizar análisis, procesos y decisiones.
+Plataforma SaaS de marketing intelligence con IA enfocada en análisis, automatización y toma de decisiones.
+
+**Qué aporta:** ayuda a convertir datos y procesos de marketing en flujos más accionables y eficientes.
 
 **Stack:** Next.js · TypeScript · Python · FastAPI · Redis · Docker
 
@@ -124,7 +105,9 @@ SaaS de marketing intelligence con IA enfocado en automatizar análisis, proceso
 
 ### 🌎 Pásalo
 
-Plataforma de redistribución hiperlocal para donar, compartir y reutilizar objetos de forma más humana.
+Plataforma de redistribución hiperlocal pensada para donar, compartir y reutilizar objetos de forma más humana.
+
+**Qué aporta:** propone una experiencia digital con impacto social y reutilización comunitaria.
 
 **Stack:** Next.js · Supabase · Prisma · Zustand · Framer Motion
 
@@ -140,6 +123,8 @@ Plataforma de redistribución hiperlocal para donar, compartir y reutilizar obje
 
 Herramienta client-side para generar fichas de búsqueda de personas desaparecidas.
 
+**Qué aporta:** simplifica la creación de materiales útiles para difusión rápida y accesible.
+
 **Stack:** Next.js · TypeScript · Tailwind CSS
 
 🔗 [aparece.vercel.app](https://aparece.vercel.app)
@@ -151,6 +136,8 @@ Herramienta client-side para generar fichas de búsqueda de personas desaparecid
 
 Bot para automatizar postulaciones laborales y reducir trabajo manual repetitivo.
 
+**Qué aporta:** acelera tareas de búsqueda y aplicación mediante automatización enfocada en productividad.
+
 **Stack:** Python · Selenium · Chrome DevTools Protocol
 
 🔗 [Repositorio](https://github.com/IsrraDex36/chambaflow)
@@ -161,7 +148,7 @@ Bot para automatizar postulaciones laborales y reducir trabajo manual repetitivo
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
@@ -180,22 +167,12 @@ Bot para automatizar postulaciones laborales y reducir trabajo manual repetitivo
 
 ---
 
-## 🎯 En lo que estoy enfocado
-
-- Construir productos web con impacto real
-- Automatizar procesos con IA
-- Diseñar sistemas mantenibles y escalables
-- Mejorar experiencia de usuario sin sacrificar rendimiento
-- Llevar ideas desde prototipo hasta producción
-
----
-
-## 🤝 Conecta conmigo
+## 🤝 Contacto
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsrraDex36)
-[![Portfolio](https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://sthorme.com)
+[![Website](https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://sthorme.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
 
