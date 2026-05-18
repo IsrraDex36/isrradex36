@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=99999&pause=99999&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=██╗███████╗██████╗+██████╗+;██║██╔════╝██╔══██╗██╔══██╗;██║███████╗██████╔╝██████╔╝;██║╚════██║██╔══██╗██╔══██╗;██║███████║██║++██║██║++██║;╚═╝╚══════╝╚═╝++╚═╝╚═╝++╚═╝" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+LLM+Integrations;Construyendo+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Primero+el+problema%2C+luego+el+c%C3%B3digo." alt="typing" />
+<pre>
+██╗███████╗██████╗ ██████╗  █████╗ ███████╗██╗
+██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔════╝██║
+██║███████╗██████╔╝██████╔╝███████║█████╗  ██║
+██║╚════██║██╔══██╗██╔══██╗██╔══██║██╔══╝  ██║
+██║███████║██║  ██║██║  ██║██║  ██║███████╗███████╗
+╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+</pre>
 </div>
 
 <br>
